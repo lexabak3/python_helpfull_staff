@@ -1,4 +1,4 @@
 # python_helpfull_staff
 Some basc triks
 
-![]IMG_7925.PNG
+![](IMG_7925.PNG)
